@@ -32,3 +32,15 @@ color: white;
 padding: 6px 14px;
 border-radius: 20px;
 }
+#projects {
+display: grid;
+grid-template-columns:
+repeat(auto-fit, minmax(280px, 1fr));
+gap: 20px;
+}
+.project-card {
+background: white;
+border: 1px solid #ddd;
+border-radius: 8px;
+padding: 20px;
+}
