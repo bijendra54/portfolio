@@ -1,0 +1,13 @@
+#OS Files
+.DS_Store
+Thumbs.db
+
+#Editor files
+.vscode/
+
+#Node/dependency folders (if you ever add them )
+node_modules/
+
+#Enviroment/secret files
+.env 
+
